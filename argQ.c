@@ -357,9 +357,11 @@ int main(int argc, char* argv[])
 
 	displayPageQueue(frames);
 
+	//------------up till here, we got a queue of frames based on input -------------
 
 
-	// printf("\n\n================Executing===============\n\n");
+
+	printf("\n\n================Executing===============\n\n");
 
 	// struct Node* iter;
 	// iter = q->front;
